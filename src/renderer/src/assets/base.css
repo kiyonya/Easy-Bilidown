@@ -1,0 +1,20 @@
+html{
+    --app:#272727;
+    --app-light:#313131;
+    --app-dark:#1e1e1e;
+    --component:#1e1e1e;
+    --component-o:#1e1e1eb9;
+    --ui:#6565653b;
+    --text:#fff;
+    --text-o-1:#ffffffd9;
+    --text-o-2:#ffffffb6;
+    --text-o-3:#ffffff90;
+    --text-o-4:#ffffff55;
+    --br-1:0.3rem;
+    --br-2:0.5rem;
+    --br-3:1rem;
+    --br-4:1.5rem;
+    --strong: #ff7b96;
+    --scrollbar-track:#bbbbbb46;
+    --border:#bbbbbb46;
+}
